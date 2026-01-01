@@ -44,4 +44,4 @@ Tata insights and Quants (Tata iQ ) is the Group's advanced analytics and AI cen
 ## 📜 Certificate
 Completed the virtual internship successfully on Forage.
 
-⭐ This repository is for learning and portfolio purposes.
+
